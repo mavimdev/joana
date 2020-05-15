@@ -7,6 +7,10 @@ import { ErrorComponent } from './error/error.component';
 
 const routes: Routes = [
   { 
+    path: '', 
+    component: JoanaComponent 
+  },
+  { 
     path: 'first', 
     component: FirstComponent 
   },
