@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "joana"
+    }
+  },
+  "defaultProject": "joana",
+  "cli": {
+    "analytics": false
+  }
 }
